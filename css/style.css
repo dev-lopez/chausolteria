@@ -893,11 +893,11 @@ support for no js
 		visibility:visible;
 		height:240px;
 		width:1500px;
-		background-color: rgba(255,255,255,.9);
+		background-color: rgba(105, 105, 105, 0.9);
 	}
-	.tp-left{
+	/* .tp-left{
 		left:60px !important;
-	}
+	} */
 	.tp-caption.center-0-478{
 		left: 50% !important;
 		-webkit-transform: translateX(-50%) !important;
@@ -6208,8 +6208,8 @@ a:hover, a:focus {
 
 @media (max-width: 1024px) {
   .page-title-cont, .page-title-small {
-    padding-top:10px;
-    padding-bottom:40px;
+    padding-top:60px;
+    padding-bottom:10px;
   }
   .page-title-cont.page-title-large {
     padding-top:30px;
@@ -7876,7 +7876,7 @@ h2.portfolio-timeline-title {
 	  float: left;
 	  padding: 25px 17px 22px 5px; 
 	  font-size: 29px;
-	  color: #4b4e53;
+	  color: white;
 	  -webkit-transition: padding .4s ease 0s;
 	  -o-transition: padding .4s ease 0s;
 	  transition: padding .4s ease 0s;
