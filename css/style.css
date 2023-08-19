@@ -1226,7 +1226,7 @@ support for no js
 
 @media only screen and (max-width : 768px) {
   .container {
-    padding-left:20px;
+    /* padding-left:20px; */
     padding-right:20px;
   }
   .row-sm-fix {
@@ -11212,11 +11212,11 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 .equal-height {
   height:473px;
 }
-@media only screen and (max-width: 768px){
+/* @media only screen and (max-width: 768px){
   .equal-height {
     height:320px;
   }
-}
+} */
 .shop-ad-height {
   height:200px;
 }
