@@ -3103,10 +3103,13 @@ select.input-border {
   padding:7px 11px !important;
 }
 .logo-footer{
-  max-height:60px;
+  max-height:300px;
 }
 .logo-footer-cont{
   margin-bottom:50px;
+}
+.logo-footer-div{
+  margin: auto;
 }
 .footer-2-text-cont {
   margin-bottom:24px;

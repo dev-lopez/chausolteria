@@ -11,13 +11,14 @@ Visualizar la web: visitar el sitio [clic aqui](https://lopezalexisl.github.io/c
 
 ## Tareas pendientes
 
- - Footer: borrar todo, dejar logo y agrandar
+ - Logo: cambiarlo por el nuevo blanco
+ - Footer: centrar el logo
  - link whatsapp en contactos, e instagram
+ - revisar version mobile y desktop
+ - revisar si hay forma de mejorar el linear gradient del body
 
 
 ## Fixes
 
- - recortar logo, error linea derecha
- - en chrome mobile se recorta en la seccion de Conferencia de Boda. (ruta css/style.css:11215)
- - seccion conocenos un poquito en mobile da espacio para 2 imagenes que no debe haber, son 8
- - arreglar imagenes para relacion de aspecto similar, seccion los culpables (260px x 470px)
+- en version mobile la seccion de contacto se colapasa mal
+- pasar por el mejormaiento de imagenes a las imagenes (evaluar si queda bien o no)
