@@ -11,8 +11,7 @@ Visualizar la web: visitar el sitio [clic aqui](https://lopezalexisl.github.io/c
 
 ## Tareas pendientes
 
- - Footer: centrar el logo
- - link whatsapp en contactos, e instagram
+
  - revisar version mobile y desktop
  - revisar si hay forma de mejorar el linear gradient del body
 
