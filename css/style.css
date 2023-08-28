@@ -3107,6 +3107,8 @@ select.input-border {
 }
 .logo-footer-cont{
   margin-bottom:50px;
+  display: flex;
+  justify-content: center;
 }
 .logo-footer-div{
   margin: auto;
