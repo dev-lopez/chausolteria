@@ -11,12 +11,9 @@ Visualizar la web: visitar el sitio [clic aqui](https://lopezalexisl.github.io/c
 
 ## Tareas pendientes
 
-
- - revisar version mobile y desktop
- - revisar si hay forma de mejorar el linear gradient del body
+    Clear :D
 
 
 ## Fixes
 
-- en version mobile la seccion de contacto se colapasa mal
-- pasar por el mejormaiento de imagenes a las imagenes (evaluar si queda bien o no)
+    Clear :D
