@@ -3842,7 +3842,7 @@ header.affix  .logo-2, .header.affix.no-transparent .logo-2 {
 	transition: all .4s ease 0s;
 }
 .logo-img {
-  height: 42px;
+  height: 55px;
 }
 .logo-img.logo-color-change {
   -webkit-filter: brightness(0) invert(1);
