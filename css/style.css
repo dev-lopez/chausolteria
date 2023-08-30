@@ -3105,6 +3105,19 @@ select.input-border {
 .logo-footer{
   max-height:300px;
 }
+
+.tangerine {
+  font-family: 'Tangerine', cursive;
+}
+
+.vibes {
+  font-family: 'Great Vibes', cursive;
+}
+
+.bscript {
+  font-family: 'Charm', cursive;
+}
+
 .logo-footer-cont{
   margin-bottom:50px;
   display: flex;
